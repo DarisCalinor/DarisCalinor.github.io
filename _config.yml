@@ -1,0 +1,65 @@
+url: https://dariscalinor.github.io
+baseurl: ""
+
+# Site settings
+title: Candogan Tuzcu
+email: candogan.tuzcu@gmail.com
+description: "Full Stack JavaScript Developer. Works with React.js, Node.js, Express.js and MongoDB."
+
+
+# Team names, titles and social links
+people:
+- name: Kay Garland
+  pic: 1
+  position: Lead Designer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Larry Parker
+  pic: 2
+  position: Lead Marketer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Diana Petersen
+  pic: 3
+  position: Lead Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/candovsky
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url:
+  - title: bitbucket 
+    url:
+  - title: github
+    url: http://github.com/DarisCalinor
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Melbourne VIC
+  - line: Australia
+
+# Build settings
+markdown: kramdown
+permalink: pretty

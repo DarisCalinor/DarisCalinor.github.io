@@ -1,0 +1,14 @@
+---
+title: Blog App
+subtitle: A RESTful blog app
+layout: default
+modal-id: 3
+date: 2018-01-03
+img: golden.png
+thumbnail: golden-thumbnail.png
+alt: image-alt
+project-date: December 2017
+client: Start Bootstrap
+category: Web Development
+description: A blog application which works on Node.js server. Written in JavaScript.
+---
