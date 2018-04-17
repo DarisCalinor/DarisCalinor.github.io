@@ -269,7 +269,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
+    background-image: url('{{ site.baseurl }}/img/emile-perron-190221-unsplash.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -287,8 +287,12 @@ header .intro-text .intro-lead-in {
     margin-bottom: 50px;
     font-family: {{ site.data.template.font.secondary }};
     font-size: 36px;
-    font-style: italic;
+    font-style: normal!important;
     line-height: 36px;
+}
+
+header .intro-text .intro-lead-in span {
+  font-style: italic;
 }
 
 header .intro-text .intro-heading {
