@@ -4,7 +4,7 @@ baseurl: ""
 # Site settings
 title: Candogan Tuzcu
 email: candogan.tuzcu@gmail.com
-description: "Full Stack JavaScript Developer. Works with React.js, Node.js, Express.js and MongoDB."
+description: "Full Stack JavaScript Developer in Melbourne. Works with React.js, Node.js, Express.js and MongoDB."
 
 
 # Team names, titles and social links
@@ -51,13 +51,13 @@ social:
   - title: stack-overflow
     url:
   - title: bitbucket 
-    url:
+    url: http://github.com/DarisCalinor
   - title: github
     url: http://github.com/DarisCalinor
-
+    
 # Postal address (add as many lines as necessary)
 address:
-  - line: Melbourne VIC
+  - line: Melbourne VIC 3000
   - line: Australia
 
 # Build settings

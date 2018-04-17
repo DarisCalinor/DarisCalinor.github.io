@@ -17,7 +17,17 @@
             <!-- Add variable for stack names -->
             <!-- Re-style CSS -use Devicon -->
             <div class="portfolio-hover-content">
-              <i class="fa fa-check fa-3x"></i>
+              <div class="portfolio-hover-content-stacklogos">
+                {% for item in post.stack-logo %}
+                <i class="{{item}}"></i>
+                {% endfor %}
+              </div>
+              <div class="portfolio-hover-content-stacknames">
+                <p class="large">
+                  {% for item in post.stack-name %} {{item}} {% endfor %}
+                </p>
+              </div>
+              <i class="fa fa-search-plus"></i>
             </div>
           </div>
           <img src="img/portfolio/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">

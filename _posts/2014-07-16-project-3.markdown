@@ -1,5 +1,5 @@
 ---
-title: Blog App
+title: I'm gonna change the world!
 subtitle: A RESTful blog app
 layout: default
 modal-id: 3
@@ -7,8 +7,14 @@ date: 2018-01-03
 img: golden.png
 thumbnail: golden-thumbnail.png
 alt: image-alt
-project-date: December 2017
-client: Start Bootstrap
 category: Web Development
+code: https://github.com/DarisCalinor
+project: https://twitter.com/candovsky
+stack-logo:
+  - devicon-javascript-plain
+  - devicon-express-original
+stack-name:
+  - JavaScript,
+  - Express.
 description: A blog application which works on Node.js server. Written in JavaScript.
 ---
