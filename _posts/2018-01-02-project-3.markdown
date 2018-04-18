@@ -1,0 +1,23 @@
+---
+title: Cloud List
+subtitle: A todo app for your daily works.
+layout: default
+modal-id: 3
+img: cloud_list_image.png
+thumbnail: cloud_list_image.png
+alt: cloud_list
+category: Portfolio
+code: https://github.com/DarisCalinor/cloud-list
+project: https://polar-caverns-52996.herokuapp.com
+stack-logo:
+  - devicon-mongodb-plain colored
+  - devicon-express-original
+  - devicon-nodejs-plain
+  - devicon-jquery-plain-wordmark
+stack-name:
+  - MongoDB,
+  - Express.js,
+  - Node.js,
+  - jQuery.
+description: A todo app for your daily works. Everybody needs an application to plan their lives. This is just a basic application will save you time!<br>Project is build as a Single Page Application which works with a Node.js REST API. Back end code has written in JavaScript using Express framework. jQuery is used for general animations and AJAX calls. For database solutions MongoDB has been used on mLab. Application deployed to Heroku.
+---

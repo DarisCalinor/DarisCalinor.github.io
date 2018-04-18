@@ -1,0 +1,21 @@
+---
+title: The Great RGB Game
+subtitle: Find the color, take the cookies!
+layout: default
+modal-id: 1
+img: color_game_image.png
+thumbnail: color_game_image.png
+alt: image-alt
+category: Portfolio
+code: https://github.com/DarisCalinor/color-game
+project: https://dariscalinor.github.io/color-game
+stack-logo:
+  - devicon-html5-plain
+  - devicon-css3-plain
+  - devicon-javascript-plain
+stack-name:
+  - HTML5,
+  - CSS3,
+  - JavaScript.
+description: The Great RGB Game is definitely a great game. Your purpose is looking the RGB code of the color written in headline and guess the color which is in one of the boxes just below! If you can guess the correct color, you will get a cookie! Beside using HTML5 and CSS3, game logic is written in JavaScript.
+---
